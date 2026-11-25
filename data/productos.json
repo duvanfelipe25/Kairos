@@ -1,0 +1,115 @@
+[
+  {
+    "id": "diadema-k22",
+    "name": "Diadema Movisun K22",
+    "category": "audio",
+    "categoryLabel": "Audio · Inalámbrico",
+    "shortDesc": "Hasta 70 horas de autonomía, Bluetooth 5.3 y micrófono HD para llamadas.",
+    "longDesc": "Audífonos de diadema con almohadillas de espuma viscoelástica que aíslan el ruido. Controles físicos en la copa para encender, reproducir, cambiar de pista y contestar llamadas.",
+    "price": 80000,
+    "images": ["diadema-k22.jpg", "diadema-k22-2.jpg", "diadema-k22-3.jpg"],
+    "imageAlt": "Diadema Movisun K22",
+    "specs": [
+      ["Autonomía", "Hasta 70 horas"],
+      ["Bluetooth", "5.3, alcance de 32 m"],
+      ["Batería", "500 mAh, carga en unas 2 horas (USB-C)"],
+      ["Drivers", "40 mm"],
+      ["Conexión alterna", "MicroSD o cable AUX de 3.5 mm"],
+      ["Micrófono", "HD integrado"]
+    ]
+  },
+  {
+    "id": "diadema-gs1",
+    "name": "Diadema SGS GS1",
+    "category": "audio",
+    "categoryLabel": "Audio · Gaming",
+    "shortDesc": "Over-ear con aislamiento de ruido, micrófono integrado y luces LED laterales.",
+    "longDesc": "Diadema over-ear con almohadillas de alta densidad que reducen el ruido del entorno. Banda deslizable para un ajuste cómodo en jornadas largas, y luces LED decorativas en las copas.",
+    "price": 60000,
+    "images": ["diadema-gs1.jpg", "diadema-gs1-2.jpg", "diadema-gs1-3.jpg", "diadema-gs1-4.jpg"],
+    "imageAlt": "Diadema SGS GS1",
+    "specs": [
+      ["Diseño", "Over-ear (circumaural)"],
+      ["Conexión", "Bluetooth con emparejamiento automático"],
+      ["Micrófono", "Omnidireccional con cancelación básica de eco"],
+      ["Iluminación", "LED lateral en las copas"],
+      ["Batería", "Recargable de litio"],
+      ["Materiales", "Policarbonato y ecocuero"]
+    ]
+  },
+  {
+    "id": "tg-339",
+    "name": "Parlante TG 339",
+    "category": "audio",
+    "categoryLabel": "Audio · Portátil",
+    "shortDesc": "Compacto, con correa de transporte, luces RGB y resistente al polvo.",
+    "longDesc": "Parlante cilíndrico de malla textil reforzada, con correa trenzada para llevarlo en la muñeca o la mochila. Tiene un anillo de luces RGB y puede reproducir música sin celular desde una memoria.",
+    "price": 40000,
+    "images": ["tg-339.jpg", "tg-339-2.jpg", "tg-339-3.jpg"],
+    "imageAlt": "Parlante TG 339",
+    "specs": [
+      ["Potencia", "5 W"],
+      ["Bluetooth", "5.0"],
+      ["Batería", "1200 mAh, de 2 a 3 horas de reproducción"],
+      ["Memoria", "Lector de TF o USB de hasta 32 GB"],
+      ["Iluminación", "Anillo RGB"],
+      ["Protección", "Malla anti-polvo y anti-impactos"]
+    ]
+  },
+  {
+    "id": "tg-359",
+    "name": "Parlante TG 359",
+    "category": "audio",
+    "categoryLabel": "Audio · Portátil",
+    "shortDesc": "Sonido estéreo con modo TWS, luces RGB, radio FM y manos libres.",
+    "longDesc": "Parlante compacto con luces RGB sincronizadas con la música. Puedes enlazar dos parlantes iguales en modo TWS para un sonido estéreo real, y contestar llamadas desde el parlante.",
+    "price": 40000,
+    "images": ["tg-359.jpg", "tg-359-2.jpg"],
+    "imageAlt": "Parlante TG 359",
+    "specs": [
+      ["Potencia", "7 W RMS"],
+      ["Bluetooth", "5.3"],
+      ["Batería", "1200 mAh, de 2 a 4 horas de uso"],
+      ["Carga", "USB Tipo-C, de 2 a 3 horas"],
+      ["Extras", "TWS, radio FM, manos libres, luces RGB"],
+      ["Dimensiones", "90 × 85.7 × 90.5 mm"]
+    ]
+  },
+  {
+    "id": "tg-389",
+    "name": "Parlante TG 389",
+    "category": "audio",
+    "categoryLabel": "Audio · Exteriores",
+    "shortDesc": "Sonido envolvente de 360°, resistente a salpicaduras y batería de 3 horas.",
+    "longDesc": "Parlante con sonido envolvente de 360 grados, certificación IPX5 contra salpicaduras y lluvia ligera. Reproduce MP3, WMA, WAV, FLAC y APE, y puede enlazarse con otro parlante idéntico.",
+    "price": 50000,
+    "images": ["tg-389.jpg", "tg-389-2.jpg", "tg-389-3.jpg"],
+    "imageAlt": "Parlante TG 389",
+    "specs": [
+      ["Potencia", "8 W"],
+      ["Bluetooth", "5.3"],
+      ["Batería", "1800 mAh, de 3 a 5 horas"],
+      ["Protección", "IPX5"],
+      ["Formatos", "MP3, WMA, WAV, FLAC, APE"],
+      ["Peso", "416 g"]
+    ]
+  },
+  {
+    "id": "mousepad-jertech",
+    "name": "Mousepad Jertech",
+    "category": "accesorios",
+    "categoryLabel": "Accesorios · Gaming",
+    "shortDesc": "Superficie de microtextura, base de goma antideslizante y bordes cosidos.",
+    "longDesc": "Alfombrilla para ratones de alta precisión. La base de goma evita que se mueva durante el juego, y los bordes cosidos resisten el desgaste. Se puede limpiar con un paño húmedo.",
+    "price": 20000,
+    "images": ["mousepad.jpg", "mousepad-2.jpg"],
+    "imageAlt": "Mousepad Jertech",
+    "specs": [
+      ["Medidas", "300 × 700 × 3 mm (extendido)"],
+      ["Superficie", "Microtextura de tela"],
+      ["Base", "Goma natural antideslizante"],
+      ["Compatibilidad", "Mouse óptico, láser y mecánico"],
+      ["Mantenimiento", "Lavable"]
+    ]
+  }
+]
