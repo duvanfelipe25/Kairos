@@ -1,115 +1,1493 @@
 [
-  {
-    "id": "diadema-k22",
-    "name": "Diadema Movisun K22",
-    "category": "audio",
-    "categoryLabel": "Audio · Inalámbrico",
-    "shortDesc": "Hasta 70 horas de autonomía, Bluetooth 5.3 y micrófono HD para llamadas.",
-    "longDesc": "Audífonos de diadema con almohadillas de espuma viscoelástica que aíslan el ruido. Controles físicos en la copa para encender, reproducir, cambiar de pista y contestar llamadas.",
-    "price": 80000,
-    "images": ["diadema-k22.jpg", "diadema-k22-2.jpg", "diadema-k22-3.jpg"],
-    "imageAlt": "Diadema Movisun K22",
-    "specs": [
-      ["Autonomía", "Hasta 70 horas"],
-      ["Bluetooth", "5.3, alcance de 32 m"],
-      ["Batería", "500 mAh, carga en unas 2 horas (USB-C)"],
-      ["Drivers", "40 mm"],
-      ["Conexión alterna", "MicroSD o cable AUX de 3.5 mm"],
-      ["Micrófono", "HD integrado"]
-    ]
-  },
-  {
-    "id": "diadema-gs1",
-    "name": "Diadema SGS GS1",
-    "category": "audio",
-    "categoryLabel": "Audio · Gaming",
-    "shortDesc": "Over-ear con aislamiento de ruido, micrófono integrado y luces LED laterales.",
-    "longDesc": "Diadema over-ear con almohadillas de alta densidad que reducen el ruido del entorno. Banda deslizable para un ajuste cómodo en jornadas largas, y luces LED decorativas en las copas.",
-    "price": 60000,
-    "images": ["diadema-gs1.jpg", "diadema-gs1-2.jpg", "diadema-gs1-3.jpg", "diadema-gs1-4.jpg"],
-    "imageAlt": "Diadema SGS GS1",
-    "specs": [
-      ["Diseño", "Over-ear (circumaural)"],
-      ["Conexión", "Bluetooth con emparejamiento automático"],
-      ["Micrófono", "Omnidireccional con cancelación básica de eco"],
-      ["Iluminación", "LED lateral en las copas"],
-      ["Batería", "Recargable de litio"],
-      ["Materiales", "Policarbonato y ecocuero"]
-    ]
-  },
-  {
-    "id": "tg-339",
-    "name": "Parlante TG 339",
-    "category": "audio",
-    "categoryLabel": "Audio · Portátil",
-    "shortDesc": "Compacto, con correa de transporte, luces RGB y resistente al polvo.",
-    "longDesc": "Parlante cilíndrico de malla textil reforzada, con correa trenzada para llevarlo en la muñeca o la mochila. Tiene un anillo de luces RGB y puede reproducir música sin celular desde una memoria.",
-    "price": 40000,
-    "images": ["tg-339.jpg", "tg-339-2.jpg", "tg-339-3.jpg"],
-    "imageAlt": "Parlante TG 339",
-    "specs": [
-      ["Potencia", "5 W"],
-      ["Bluetooth", "5.0"],
-      ["Batería", "1200 mAh, de 2 a 3 horas de reproducción"],
-      ["Memoria", "Lector de TF o USB de hasta 32 GB"],
-      ["Iluminación", "Anillo RGB"],
-      ["Protección", "Malla anti-polvo y anti-impactos"]
-    ]
-  },
-  {
-    "id": "tg-359",
-    "name": "Parlante TG 359",
-    "category": "audio",
-    "categoryLabel": "Audio · Portátil",
-    "shortDesc": "Sonido estéreo con modo TWS, luces RGB, radio FM y manos libres.",
-    "longDesc": "Parlante compacto con luces RGB sincronizadas con la música. Puedes enlazar dos parlantes iguales en modo TWS para un sonido estéreo real, y contestar llamadas desde el parlante.",
-    "price": 40000,
-    "images": ["tg-359.jpg", "tg-359-2.jpg"],
-    "imageAlt": "Parlante TG 359",
-    "specs": [
-      ["Potencia", "7 W RMS"],
-      ["Bluetooth", "5.3"],
-      ["Batería", "1200 mAh, de 2 a 4 horas de uso"],
-      ["Carga", "USB Tipo-C, de 2 a 3 horas"],
-      ["Extras", "TWS, radio FM, manos libres, luces RGB"],
-      ["Dimensiones", "90 × 85.7 × 90.5 mm"]
-    ]
-  },
-  {
-    "id": "tg-389",
-    "name": "Parlante TG 389",
-    "category": "audio",
-    "categoryLabel": "Audio · Exteriores",
-    "shortDesc": "Sonido envolvente de 360°, resistente a salpicaduras y batería de 3 horas.",
-    "longDesc": "Parlante con sonido envolvente de 360 grados, certificación IPX5 contra salpicaduras y lluvia ligera. Reproduce MP3, WMA, WAV, FLAC y APE, y puede enlazarse con otro parlante idéntico.",
-    "price": 50000,
-    "images": ["tg-389.jpg", "tg-389-2.jpg", "tg-389-3.jpg"],
-    "imageAlt": "Parlante TG 389",
-    "specs": [
-      ["Potencia", "8 W"],
-      ["Bluetooth", "5.3"],
-      ["Batería", "1800 mAh, de 3 a 5 horas"],
-      ["Protección", "IPX5"],
-      ["Formatos", "MP3, WMA, WAV, FLAC, APE"],
-      ["Peso", "416 g"]
-    ]
-  },
-  {
-    "id": "mousepad-jertech",
-    "name": "Mousepad Jertech",
-    "category": "accesorios",
-    "categoryLabel": "Accesorios · Gaming",
-    "shortDesc": "Superficie de microtextura, base de goma antideslizante y bordes cosidos.",
-    "longDesc": "Alfombrilla para ratones de alta precisión. La base de goma evita que se mueva durante el juego, y los bordes cosidos resisten el desgaste. Se puede limpiar con un paño húmedo.",
-    "price": 20000,
-    "images": ["mousepad.jpg", "mousepad-2.jpg"],
-    "imageAlt": "Mousepad Jertech",
-    "specs": [
-      ["Medidas", "300 × 700 × 3 mm (extendido)"],
-      ["Superficie", "Microtextura de tela"],
-      ["Base", "Goma natural antideslizante"],
-      ["Compatibilidad", "Mouse óptico, láser y mecánico"],
-      ["Mantenimiento", "Lavable"]
-    ]
-  }
+    {
+        "id":  "diadema-k22",
+        "name":  "Diadema Movisun K22",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Inalámbrico",
+        "shortDesc":  "Hasta 70 horas de autonomía, Bluetooth 5.3 y micrófono HD para llamadas.",
+        "longDesc":  "Audífonos de diadema con almohadillas de espuma viscoelástica que aíslan el ruido. Controles físicos en la copa para encender, reproducir, cambiar de pista y contestar llamadas.",
+        "price":  80000,
+        "images":  [
+                       "diadema-k22.jpg",
+                       "diadema-k22-2.jpg",
+                       "diadema-k22-3.jpg"
+                   ],
+        "imageAlt":  "Diadema Movisun K22",
+        "specs":  [
+                      [
+                          "Autonomía",
+                          "Hasta 70 horas"
+                      ],
+                      [
+                          "Bluetooth",
+                          "5.3, alcance de 32 m"
+                      ],
+                      [
+                          "Batería",
+                          "500 mAh, carga en unas 2 horas (USB-C)"
+                      ],
+                      [
+                          "Drivers",
+                          "40 mm"
+                      ],
+                      [
+                          "Conexión alterna",
+                          "MicroSD o cable AUX de 3.5 mm"
+                      ],
+                      [
+                          "Micrófono",
+                          "HD integrado"
+                      ]
+                  ]
+    },
+    {
+        "id":  "diadema-gs1",
+        "name":  "Diadema SGS GS1",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Gaming",
+        "shortDesc":  "Over-ear con aislamiento de ruido, micrófono integrado y luces LED laterales.",
+        "longDesc":  "Diadema over-ear con almohadillas de alta densidad que reducen el ruido del entorno. Banda deslizable para un ajuste cómodo en jornadas largas, y luces LED decorativas en las copas.",
+        "price":  60000,
+        "images":  [
+                       "diadema-gs1.jpg",
+                       "diadema-gs1-2.jpg",
+                       "diadema-gs1-3.jpg",
+                       "diadema-gs1-4.jpg"
+                   ],
+        "imageAlt":  "Diadema SGS GS1",
+        "specs":  [
+                      [
+                          "Diseño",
+                          "Over-ear (circumaural)"
+                      ],
+                      [
+                          "Conexión",
+                          "Bluetooth con emparejamiento automático"
+                      ],
+                      [
+                          "Micrófono",
+                          "Omnidireccional con cancelación básica de eco"
+                      ],
+                      [
+                          "Iluminación",
+                          "LED lateral en las copas"
+                      ],
+                      [
+                          "Batería",
+                          "Recargable de litio"
+                      ],
+                      [
+                          "Materiales",
+                          "Policarbonato y ecocuero"
+                      ]
+                  ]
+    },
+    {
+        "id":  "tg-339",
+        "name":  "Parlante TG 339",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Portátil",
+        "shortDesc":  "Compacto, con correa de transporte, luces RGB y resistente al polvo.",
+        "longDesc":  "Parlante cilíndrico de malla textil reforzada, con correa trenzada para llevarlo en la muñeca o la mochila. Tiene un anillo de luces RGB y puede reproducir música sin celular desde una memoria.",
+        "price":  40000,
+        "images":  [
+                       "tg-339.jpg",
+                       "tg-339-2.jpg",
+                       "tg-339-3.jpg"
+                   ],
+        "imageAlt":  "Parlante TG 339",
+        "specs":  [
+                      [
+                          "Potencia",
+                          "5 W"
+                      ],
+                      [
+                          "Bluetooth",
+                          "5.0"
+                      ],
+                      [
+                          "Batería",
+                          "1200 mAh, de 2 a 3 horas de reproducción"
+                      ],
+                      [
+                          "Memoria",
+                          "Lector de TF o USB de hasta 32 GB"
+                      ],
+                      [
+                          "Iluminación",
+                          "Anillo RGB"
+                      ],
+                      [
+                          "Protección",
+                          "Malla anti-polvo y anti-impactos"
+                      ]
+                  ]
+    },
+    {
+        "id":  "tg-359",
+        "name":  "Parlante TG 359",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Portátil",
+        "shortDesc":  "Sonido estéreo con modo TWS, luces RGB, radio FM y manos libres.",
+        "longDesc":  "Parlante compacto con luces RGB sincronizadas con la música. Puedes enlazar dos parlantes iguales en modo TWS para un sonido estéreo real, y contestar llamadas desde el parlante.",
+        "price":  40000,
+        "images":  [
+                       "tg-359.jpg",
+                       "tg-359-2.jpg"
+                   ],
+        "imageAlt":  "Parlante TG 359",
+        "specs":  [
+                      [
+                          "Potencia",
+                          "7 W RMS"
+                      ],
+                      [
+                          "Bluetooth",
+                          "5.3"
+                      ],
+                      [
+                          "Batería",
+                          "1200 mAh, de 2 a 4 horas de uso"
+                      ],
+                      [
+                          "Carga",
+                          "USB Tipo-C, de 2 a 3 horas"
+                      ],
+                      [
+                          "Extras",
+                          "TWS, radio FM, manos libres, luces RGB"
+                      ],
+                      [
+                          "Dimensiones",
+                          "90 × 85.7 × 90.5 mm"
+                      ]
+                  ]
+    },
+    {
+        "id":  "tg-389",
+        "name":  "Parlante TG 389",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Exteriores",
+        "shortDesc":  "Sonido envolvente de 360°, resistente a salpicaduras y batería de 3 horas.",
+        "longDesc":  "Parlante con sonido envolvente de 360 grados, certificación IPX5 contra salpicaduras y lluvia ligera. Reproduce MP3, WMA, WAV, FLAC y APE, y puede enlazarse con otro parlante idéntico.",
+        "price":  50000,
+        "images":  [
+                       "tg-389.jpg",
+                       "tg-389-2.jpg",
+                       "tg-389-3.jpg"
+                   ],
+        "imageAlt":  "Parlante TG 389",
+        "specs":  [
+                      [
+                          "Potencia",
+                          "8 W"
+                      ],
+                      [
+                          "Bluetooth",
+                          "5.3"
+                      ],
+                      [
+                          "Batería",
+                          "1800 mAh, de 3 a 5 horas"
+                      ],
+                      [
+                          "Protección",
+                          "IPX5"
+                      ],
+                      [
+                          "Formatos",
+                          "MP3, WMA, WAV, FLAC, APE"
+                      ],
+                      [
+                          "Peso",
+                          "416 g"
+                      ]
+                  ]
+    },
+    {
+        "id":  "mousepad-jertech",
+        "name":  "Mousepad Jertech",
+        "category":  "accesorios",
+        "categoryLabel":  "Accesorios · Gaming",
+        "shortDesc":  "Superficie de microtextura, base de goma antideslizante y bordes cosidos.",
+        "longDesc":  "Alfombrilla para ratones de alta precisión. La base de goma evita que se mueva durante el juego, y los bordes cosidos resisten el desgaste. Se puede limpiar con un paño húmedo.",
+        "price":  20000,
+        "images":  [
+                       "mousepad.jpg",
+                       "mousepad-2.jpg"
+                   ],
+        "imageAlt":  "Mousepad Jertech",
+        "specs":  [
+                      [
+                          "Medidas",
+                          "300 × 700 × 3 mm (extendido)"
+                      ],
+                      [
+                          "Superficie",
+                          "Microtextura de tela"
+                      ],
+                      [
+                          "Base",
+                          "Goma natural antideslizante"
+                      ],
+                      [
+                          "Compatibilidad",
+                          "Mouse óptico, láser y mecánico"
+                      ],
+                      [
+                          "Mantenimiento",
+                          "Lavable"
+                      ]
+                  ]
+    },
+    {
+        "id":  "parlante-okey-rgb",
+        "name":  "Parlante Okey RGB",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Parlantes",
+        "shortDesc":  "Parlante tipo cubo con luces RGB, radio FM, USB, microSD y entrada AUX.",
+        "longDesc":  "Parlante compacto en forma de cubo con iluminación RGB multicolor que acompaña la música. Reproduce por Bluetooth, memoria USB, tarjeta microSD, cable AUX o radio FM. Ideal para la habitación, el escritorio o como regalo.",
+        "price":  59900,
+        "images":  [
+                       "parlante-okey-rgb.jpg",
+                       "parlante-okey-rgb-2.jpg",
+                       "parlante-okey-rgb-3.jpg"
+                   ],
+        "imageAlt":  "Parlante Okey RGB",
+        "specs":  [
+                      [
+                          "Conexión",
+                          "Bluetooth, USB, microSD (TF), AUX"
+                      ],
+                      [
+                          "Radio",
+                          "FM integrada"
+                      ],
+                      [
+                          "Iluminación",
+                          "RGB multicolor"
+                      ],
+                      [
+                          "Controles",
+                          "Botones integrados"
+                      ],
+                      [
+                          "Diseño",
+                          "Cubo compacto y portátil"
+                      ]
+                  ]
+    },
+    {
+        "id":  "parlante-ducha",
+        "name":  "Parlante de Ducha Bluetooth",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Parlantes",
+        "shortDesc":  "Resistente al agua, con ventosa para fijarlo en azulejos o vidrio.",
+        "longDesc":  "Parlante Bluetooth resistente al agua con ventosa de alta adherencia para fijarlo en superficies lisas. Los botones superiores permiten cambiar el volumen, las canciones y contestar llamadas sin salir de la ducha. Batería recargable.",
+        "price":  44900,
+        "images":  [
+                       "parlante-ducha.jpg"
+                   ],
+        "imageAlt":  "Parlante de Ducha Bluetooth",
+        "specs":  [
+                      [
+                          "Conexión",
+                          "Bluetooth 5.0"
+                      ],
+                      [
+                          "Resistencia",
+                          "Al agua y salpicaduras"
+                      ],
+                      [
+                          "Montaje",
+                          "Ventosa para superficies lisas"
+                      ],
+                      [
+                          "Controles",
+                          "Volumen, pistas y llamadas"
+                      ],
+                      [
+                          "Batería",
+                          "Recargable"
+                      ]
+                  ]
+    },
+    {
+        "id":  "parlante-karaoke",
+        "name":  "Parlante Karaoke con 2 Micrófonos",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Karaoke",
+        "shortDesc":  "Mini karaoke portátil con 2 micrófonos inalámbricos y luces de colores.",
+        "longDesc":  "Máquina de karaoke ultraportátil con parlante Bluetooth y dos micrófonos inalámbricos. Tiene varios modos de luz que bailan con la música. Un regalo ideal para niños y para reuniones familiares.",
+        "price":  69900,
+        "images":  [
+                       "parlante-karaoke.jpg",
+                       "parlante-karaoke-2.jpg",
+                       "parlante-karaoke-3.jpg"
+                   ],
+        "imageAlt":  "Parlante Karaoke con 2 Micrófonos",
+        "specs":  [
+                      [
+                          "Micrófonos",
+                          "2 inalámbricos"
+                      ],
+                      [
+                          "Conexión",
+                          "Bluetooth"
+                      ],
+                      [
+                          "Iluminación",
+                          "Luces de colores con varios modos"
+                      ],
+                      [
+                          "Uso",
+                          "Karaoke, música y fiestas"
+                      ],
+                      [
+                          "Formato",
+                          "Portátil"
+                      ]
+                  ]
+    },
+    {
+        "id":  "lampara-parlante-y598",
+        "name":  "Lámpara Parlante RGB Y598",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Decoración",
+        "shortDesc":  "Lámpara de ambiente con parlante Bluetooth integrado y luces RGB.",
+        "longDesc":  "Lámpara decorativa con parlante Bluetooth integrado. Sus luces RGB crean ambiente en la habitación, la sala o el escritorio mientras escuchas tu música.",
+        "price":  74900,
+        "images":  [
+                       "lampara-parlante-y598.jpg",
+                       "lampara-parlante-y598-2.jpg"
+                   ],
+        "imageAlt":  "Lámpara Parlante RGB Y598",
+        "specs":  [
+                      [
+                          "Función",
+                          "Lámpara + parlante Bluetooth"
+                      ],
+                      [
+                          "Iluminación",
+                          "RGB multicolor"
+                      ],
+                      [
+                          "Uso",
+                          "Habitación, sala, escritorio"
+                      ],
+                      [
+                          "Referencia",
+                          "Y598"
+                      ]
+                  ]
+    },
+    {
+        "id":  "parlante-carro-retro",
+        "name":  "Parlante Carro Clásico Retro",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Decoración",
+        "shortDesc":  "Parlante Bluetooth de 10 W con forma de carro de los años 50 y farolas iluminadas.",
+        "longDesc":  "Un parlante que también es una pieza de decoración: inspirado en los carros clásicos de los años 50, con detalles cromados, aletas traseras y farolas que se iluminan. Perfecto para la sala, la oficina o como regalo para los amantes de lo vintage.",
+        "price":  119900,
+        "images":  [
+                       "parlante-carro-retro.webp",
+                       "parlante-carro-retro-2.webp",
+                       "parlante-carro-retro-3.webp",
+                       "parlante-carro-retro-4.webp",
+                       "parlante-carro-retro-5.webp"
+                   ],
+        "imageAlt":  "Parlante Carro Clásico Retro",
+        "specs":  [
+                      [
+                          "Potencia",
+                          "10 W"
+                      ],
+                      [
+                          "Conexión",
+                          "Bluetooth"
+                      ],
+                      [
+                          "Batería",
+                          "Recargable"
+                      ],
+                      [
+                          "Detalles",
+                          "Farolas iluminadas y acabados cromados"
+                      ],
+                      [
+                          "Referencia",
+                          "WS-1965"
+                      ]
+                  ]
+    },
+    {
+        "id":  "parlante-tg-444",
+        "name":  "Parlante TG 444",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Portátil",
+        "shortDesc":  "Parlante portátil de la línea TG, con Bluetooth y gran autonomía.",
+        "longDesc":  "Parlante portátil de la línea T\u0026G, la misma familia de los TG 339, 359 y 389. Conexión Bluetooth y diseño resistente para llevar tu música a todas partes.",
+        "price":  59900,
+        "images":  [
+                       "parlante-tg-444.jpg"
+                   ],
+        "imageAlt":  "Parlante TG 444",
+        "specs":  [
+                      [
+                          "Línea",
+                          "T\u0026G"
+                      ],
+                      [
+                          "Conexión",
+                          "Bluetooth"
+                      ],
+                      [
+                          "Formato",
+                          "Portátil"
+                      ],
+                      [
+                          "Garantía del proveedor",
+                          "10 días"
+                      ]
+                  ]
+    },
+    {
+        "id":  "audifonos-f310",
+        "name":  "Audífonos Inalámbricos F310",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Inalámbrico",
+        "shortDesc":  "Emparejamiento automático, controles táctiles y estuche de carga compacto.",
+        "longDesc":  "Audífonos inalámbricos con sonido equilibrado y conexión Bluetooth estable, ideales para llamadas y música en el día a día. Diseño liviano y ergonómico.",
+        "price":  69900,
+        "images":  [
+                       "audifonos-f310.jpg",
+                       "audifonos-f310-2.jpg",
+                       "audifonos-f310-3.jpg"
+                   ],
+        "imageAlt":  "Audífonos Inalámbricos F310",
+        "specs":  [
+                      [
+                          "Conexión",
+                          "Bluetooth, emparejamiento automático"
+                      ],
+                      [
+                          "Controles",
+                          "Táctiles"
+                      ],
+                      [
+                          "Micrófono",
+                          "Integrado"
+                      ],
+                      [
+                          "Estuche",
+                          "De carga compacto"
+                      ],
+                      [
+                          "Diseño",
+                          "Ergonómico y liviano"
+                      ]
+                  ]
+    },
+    {
+        "id":  "audifonos-f340",
+        "name":  "Audífonos Inalámbricos F340",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Inalámbrico",
+        "shortDesc":  "Bluetooth 5.0, controles táctiles multifunción y micrófono para llamadas.",
+        "longDesc":  "Audífonos inalámbricos de diseño compacto con conexión rápida Bluetooth 5.0 y controles táctiles multifunción. Su micrófono integrado da llamadas claras y el estuche los recarga en cualquier lugar.",
+        "price":  79900,
+        "images":  [
+                       "audifonos-f340.jpg",
+                       "audifonos-f340-2.jpg",
+                       "audifonos-f340-3.jpg"
+                   ],
+        "imageAlt":  "Audífonos Inalámbricos F340",
+        "specs":  [
+                      [
+                          "Bluetooth",
+                          "5.0"
+                      ],
+                      [
+                          "Controles",
+                          "Táctiles multifunción"
+                      ],
+                      [
+                          "Micrófono",
+                          "Integrado"
+                      ],
+                      [
+                          "Estuche",
+                          "De carga portátil"
+                      ],
+                      [
+                          "Ajuste",
+                          "Ergonómico"
+                      ]
+                  ]
+    },
+    {
+        "id":  "audifonos-deportivos",
+        "name":  "Audífonos Deportivos Inalámbricos",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Deportivo",
+        "shortDesc":  "Bluetooth 5.3, alcance de hasta 15 m y de 5 a 6 horas de música.",
+        "longDesc":  "Audífonos inalámbricos pensados para el deporte y el uso diario. Conexión Bluetooth 5.3 estable y unas 5 a 6 horas de música por carga. Incluyen cable USB tipo C.",
+        "price":  79900,
+        "images":  [
+                       "audifonos-deportivos.jpg",
+                       "audifonos-deportivos-2.jpg",
+                       "audifonos-deportivos-3.jpg"
+                   ],
+        "imageAlt":  "Audífonos Deportivos Inalámbricos",
+        "specs":  [
+                      [
+                          "Bluetooth",
+                          "5.3"
+                      ],
+                      [
+                          "Alcance",
+                          "10 a 15 m"
+                      ],
+                      [
+                          "Autonomía",
+                          "5 a 6 horas de música"
+                      ],
+                      [
+                          "Carga",
+                          "USB tipo C"
+                      ],
+                      [
+                          "Incluye",
+                          "Audífonos, estuche, cable y manual"
+                      ]
+                  ]
+    },
+    {
+        "id":  "audifonos-f9-powerbank",
+        "name":  "Audífonos F9 con Power Bank",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Inalámbrico",
+        "shortDesc":  "True Wireless, IPX5 para deporte y estuche que sirve de batería externa.",
+        "longDesc":  "Audífonos True Wireless con estuche de carga que también funciona como power bank para tu celular. Resistentes al sudor (IPX5), con micrófono para manos libres.",
+        "price":  54900,
+        "images":  [
+                       "audifonos-f9-powerbank.jpg"
+                   ],
+        "imageAlt":  "Audífonos F9 con Power Bank",
+        "specs":  [
+                      [
+                          "Tecnología",
+                          "True Wireless"
+                      ],
+                      [
+                          "Alcance",
+                          "10 m"
+                      ],
+                      [
+                          "Autonomía",
+                          "Hasta 5 h"
+                      ],
+                      [
+                          "Resistencia",
+                          "IPX5"
+                      ],
+                      [
+                          "Extra",
+                          "Estuche con función power bank"
+                      ]
+                  ]
+    },
+    {
+        "id":  "gafas-bluetooth",
+        "name":  "Gafas con Audífonos Bluetooth",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Innovación",
+        "shortDesc":  "Gafas livianas con audífonos integrados para música y llamadas.",
+        "longDesc":  "Gafas con audífonos Bluetooth integrados en las patas: escucha música y contesta llamadas sin nada en los oídos. Muy livianas, solo 48 g.",
+        "price":  84900,
+        "images":  [
+                       "gafas-bluetooth.jpg",
+                       "gafas-bluetooth-2.jpg",
+                       "gafas-bluetooth-3.jpg",
+                       "gafas-bluetooth-4.jpg"
+                   ],
+        "imageAlt":  "Gafas con Audífonos Bluetooth",
+        "specs":  [
+                      [
+                          "Bluetooth",
+                          "4.0"
+                      ],
+                      [
+                          "Alcance",
+                          "10 m"
+                      ],
+                      [
+                          "Peso",
+                          "48 g"
+                      ],
+                      [
+                          "Material",
+                          "ABS y PC"
+                      ]
+                  ]
+    },
+    {
+        "id":  "diadema-kg100",
+        "name":  "Diadema Gamer Movisun KG100",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Gaming",
+        "shortDesc":  "Over-ear para gamers, con micrófono omnidireccional y sonido envolvente.",
+        "longDesc":  "Diadema gamer de la marca Movisun (la misma de la K22) con diseño over-ear cómodo para sesiones largas. Su micrófono omnidireccional da una comunicación clara con tu equipo.",
+        "price":  109900,
+        "images":  [
+                       "diadema-kg100.jpg",
+                       "diadema-kg100-2.jpg",
+                       "diadema-kg100-3.jpg",
+                       "diadema-kg100-4.jpg",
+                       "diadema-kg100-5.jpg"
+                   ],
+        "imageAlt":  "Diadema Gamer Movisun KG100",
+        "specs":  [
+                      [
+                          "Marca",
+                          "Movisun"
+                      ],
+                      [
+                          "Diseño",
+                          "Over-ear"
+                      ],
+                      [
+                          "Micrófono",
+                          "Omnidireccional"
+                      ],
+                      [
+                          "Uso",
+                          "Gaming, clases y música"
+                      ]
+                  ]
+    },
+    {
+        "id":  "diadema-g61",
+        "name":  "Diadema Gamer RGB G61",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Gaming",
+        "shortDesc":  "Luces RGB, micrófono flexible y almohadillas acolchadas.",
+        "longDesc":  "Diadema gamer con iluminación RGB en los laterales, micrófono flexible ajustable y almohadillas acolchadas para sesiones largas. Para gamers, streamers y estudiantes.",
+        "price":  104900,
+        "images":  [
+                       "diadema-g61.jpg",
+                       "diadema-g61-2.jpg",
+                       "diadema-g61-3.jpg",
+                       "diadema-g61-4.jpg",
+                       "diadema-g61-5.jpg"
+                   ],
+        "imageAlt":  "Diadema Gamer RGB G61",
+        "specs":  [
+                      [
+                          "Iluminación",
+                          "RGB lateral"
+                      ],
+                      [
+                          "Micrófono",
+                          "Flexible"
+                      ],
+                      [
+                          "Comodidad",
+                          "Acolchada"
+                      ],
+                      [
+                          "Uso",
+                          "Juegos, música y clases virtuales"
+                      ]
+                  ]
+    },
+    {
+        "id":  "combo-smartwatch-jl19",
+        "name":  "Combo Smartwatch JL19 Ultra 2 + Audífonos",
+        "category":  "relojes",
+        "categoryLabel":  "Relojes · Combo",
+        "shortDesc":  "Pantalla de 2,3\", llamadas Bluetooth, 7 correas y audífonos inalámbricos.",
+        "longDesc":  "El kit más completo: smartwatch JL-19 Ultra 2 con pantalla de 2,3 pulgadas, 7 correas intercambiables y audífonos inalámbricos con estuche. Recibe llamadas y notificaciones en la muñeca. Listo para regalar.",
+        "price":  104900,
+        "images":  [
+                       "combo-smartwatch-jl19.jpg",
+                       "combo-smartwatch-jl19-2.jpg",
+                       "combo-smartwatch-jl19-3.jpg"
+                   ],
+        "imageAlt":  "Combo Smartwatch JL19 Ultra 2 + Audífonos",
+        "specs":  [
+                      [
+                          "Pantalla",
+                          "2,3\" táctil"
+                      ],
+                      [
+                          "Funciones",
+                          "Llamadas Bluetooth, notificaciones"
+                      ],
+                      [
+                          "Salud",
+                          "Pasos, calorías, sueño, ritmo cardíaco"
+                      ],
+                      [
+                          "Incluye",
+                          "Reloj, 7 correas, audífonos, cables"
+                      ]
+                  ]
+    },
+    {
+        "id":  "smartwatch-9-mini",
+        "name":  "Smartwatch 9 Mini AMOLED",
+        "category":  "relojes",
+        "categoryLabel":  "Relojes · Smartwatch",
+        "shortDesc":  "Compacto de 38 mm con pantalla AMOLED de 1,75\" y colores vivos.",
+        "longDesc":  "Reloj inteligente compacto y elegante de 38 mm, con pantalla AMOLED de 1,75 pulgadas que muestra colores vivos y nítidos. Disponible en rosa, gris y negro.",
+        "price":  139900,
+        "images":  [
+                       "smartwatch-9-mini.jpg",
+                       "smartwatch-9-mini-2.jpg",
+                       "smartwatch-9-mini-3.jpg"
+                   ],
+        "imageAlt":  "Smartwatch 9 Mini AMOLED",
+        "specs":  [
+                      [
+                          "Tamaño",
+                          "38 mm"
+                      ],
+                      [
+                          "Pantalla",
+                          "AMOLED 1,75\""
+                      ],
+                      [
+                          "Colores",
+                          "Rosa, gris, negro"
+                      ]
+                  ]
+    },
+    {
+        "id":  "smartwatch-iw10-ultra",
+        "name":  "Smartwatch IW10 Ultra",
+        "category":  "relojes",
+        "categoryLabel":  "Relojes · Smartwatch",
+        "shortDesc":  "Pantalla HD de 2,02\", llamadas, NFC y carga inalámbrica.",
+        "longDesc":  "Smartwatch de diseño tipo ultra con pantalla HD de 2,02 pulgadas. Responde llamadas desde la muñeca, tiene NFC y carga inalámbrica. Incluye correa, cable de carga y manual.",
+        "price":  199900,
+        "images":  [
+                       "smartwatch-iw10-ultra.jpg",
+                       "smartwatch-iw10-ultra-2.jpg",
+                       "smartwatch-iw10-ultra-3.webp"
+                   ],
+        "imageAlt":  "Smartwatch IW10 Ultra",
+        "specs":  [
+                      [
+                          "Pantalla",
+                          "HD 2,02\""
+                      ],
+                      [
+                          "Llamadas",
+                          "Sí, desde el reloj"
+                      ],
+                      [
+                          "Conectividad",
+                          "Bluetooth y NFC"
+                      ],
+                      [
+                          "Carga",
+                          "Inalámbrica"
+                      ],
+                      [
+                          "Incluye",
+                          "Reloj, correa, cable y manual"
+                      ]
+                  ]
+    },
+    {
+        "id":  "cargador-3en1-plegable",
+        "name":  "Cargador Inalámbrico Plegable 3 en 1",
+        "category":  "carga",
+        "categoryLabel":  "Carga · Inalámbrica",
+        "shortDesc":  "Carga celular, reloj y audífonos a la vez; se pliega para viajar.",
+        "longDesc":  "Estación de carga inalámbrica plegable para celular, reloj y audífonos. Compatible con el estándar Qi, con potencias de 5 a 15 W. Se pliega para llevarla en la maleta.",
+        "price":  124900,
+        "images":  [
+                       "cargador-3en1-plegable.jpg",
+                       "cargador-3en1-plegable-2.jpg",
+                       "cargador-3en1-plegable-3.jpg",
+                       "cargador-3en1-plegable-4.jpg"
+                   ],
+        "imageAlt":  "Cargador Inalámbrico Plegable 3 en 1",
+        "specs":  [
+                      [
+                          "Estándar",
+                          "Qi"
+                      ],
+                      [
+                          "Potencia",
+                          "5 / 7,5 / 10 / 15 W"
+                      ],
+                      [
+                          "Distancia de carga",
+                          "5 a 8 mm"
+                      ],
+                      [
+                          "Entrada",
+                          "USB tipo C"
+                      ]
+                  ]
+    },
+    {
+        "id":  "cargador-magnetico-15w",
+        "name":  "Cargador Magnético Inalámbrico 15 W",
+        "category":  "carga",
+        "categoryLabel":  "Carga · Inalámbrica",
+        "shortDesc":  "Carga magnética de 15 W compatible con iPhone MagSafe.",
+        "longDesc":  "Cargador inalámbrico magnético de 15 W, compatible con iPhone con MagSafe. Ultraligero (70 g) y con cable USB-C integrado de 60 cm.",
+        "price":  79900,
+        "images":  [
+                       "cargador-magnetico-15w.jpg",
+                       "cargador-magnetico-15w-2.jpg",
+                       "cargador-magnetico-15w-3.jpg",
+                       "cargador-magnetico-15w-4.jpg"
+                   ],
+        "imageAlt":  "Cargador Magnético Inalámbrico 15 W",
+        "specs":  [
+                      [
+                          "Potencia",
+                          "15 W"
+                      ],
+                      [
+                          "Compatibilidad",
+                          "iPhone con MagSafe"
+                      ],
+                      [
+                          "Medidas",
+                          "8 × 8 × 1 cm, 70 g"
+                      ],
+                      [
+                          "Cable",
+                          "USB-C integrado de 60 cm"
+                      ]
+                  ]
+    },
+    {
+        "id":  "cargador-carro-66w",
+        "name":  "Cargador para Carro 4 en 1 66 W",
+        "category":  "carga",
+        "categoryLabel":  "Carga · Carro",
+        "shortDesc":  "Carga rápida de 66 W, cable retráctil y pantalla de voltaje.",
+        "longDesc":  "Cargador para el encendedor del carro con carga rápida de hasta 66 W para cuatro dispositivos al mismo tiempo. Cable retráctil de unos 80 cm y pantalla digital de voltaje.",
+        "price":  119900,
+        "images":  [
+                       "cargador-carro-66w.jpg",
+                       "cargador-carro-66w-2.jpg",
+                       "cargador-carro-66w-3.jpg",
+                       "cargador-carro-66w-4.jpg"
+                   ],
+        "imageAlt":  "Cargador para Carro 4 en 1 66 W",
+        "specs":  [
+                      [
+                          "Potencia",
+                          "Hasta 66 W"
+                      ],
+                      [
+                          "Salidas",
+                          "USB, tipo C, Lightning y cable integrado"
+                      ],
+                      [
+                          "Carga rápida",
+                          "PD 3.0 y QC 3.0"
+                      ],
+                      [
+                          "Pantalla",
+                          "Voltaje en tiempo real"
+                      ],
+                      [
+                          "Protección",
+                          "Sobrecarga, temperatura y cortos"
+                      ]
+                  ]
+    },
+    {
+        "id":  "cargador-120w-4-puertos",
+        "name":  "Cargador de Pared 120 W 4 Puertos",
+        "category":  "carga",
+        "categoryLabel":  "Carga · Pared",
+        "shortDesc":  "Carga 4 dispositivos a la vez: 2 USB-A y 2 USB-C.",
+        "longDesc":  "Cargador de pared compacto con 4 puertos (2 USB-A y 2 USB-C) para cargar celular, tablet y más dispositivos al mismo tiempo, con detección inteligente de carga.",
+        "price":  59900,
+        "images":  [
+                       "cargador-120w-4-puertos.jpg",
+                       "cargador-120w-4-puertos-2.jpg",
+                       "cargador-120w-4-puertos-3.jpg",
+                       "cargador-120w-4-puertos-4.jpg",
+                       "cargador-120w-4-puertos-5.jpg",
+                       "cargador-120w-4-puertos-6.jpg"
+                   ],
+        "imageAlt":  "Cargador de Pared 120 W 4 Puertos",
+        "specs":  [
+                      [
+                          "Potencia total",
+                          "120 W"
+                      ],
+                      [
+                          "Puertos",
+                          "2 USB-A + 2 USB-C"
+                      ],
+                      [
+                          "Carga",
+                          "Simultánea e inteligente"
+                      ],
+                      [
+                          "Diseño",
+                          "Compacto"
+                      ]
+                  ]
+    },
+    {
+        "id":  "cargador-inalambrico-3en1",
+        "name":  "Cargador Inalámbrico 3 en 1",
+        "category":  "carga",
+        "categoryLabel":  "Carga · Inalámbrica",
+        "shortDesc":  "Base magnética para celular, reloj y audífonos con indicador LED.",
+        "longDesc":  "Base de carga inalámbrica 3 en 1 para celular, reloj inteligente y audífonos. Compatible con carga Qi y sistema magnético tipo MagSafe, con protección contra sobrecalentamiento.",
+        "price":  64900,
+        "images":  [
+                       "cargador-inalambrico-3en1.jpg",
+                       "cargador-inalambrico-3en1-2.jpg",
+                       "cargador-inalambrico-3en1-3.jpg",
+                       "cargador-inalambrico-3en1-4.jpg"
+                   ],
+        "imageAlt":  "Cargador Inalámbrico 3 en 1",
+        "specs":  [
+                      [
+                          "Dispositivos",
+                          "Celular, reloj y audífonos"
+                      ],
+                      [
+                          "Compatibilidad",
+                          "Qi y magnética tipo MagSafe"
+                      ],
+                      [
+                          "Protección",
+                          "Sobrecarga y sobrecalentamiento"
+                      ],
+                      [
+                          "Indicador",
+                          "LED de estado"
+                      ]
+                  ]
+    },
+    {
+        "id":  "power-bank-solar-20000",
+        "name":  "Power Bank Solar 20.000 mAh",
+        "category":  "carga",
+        "categoryLabel":  "Carga · Portátil",
+        "shortDesc":  "Batería portátil con panel solar y 4 cables integrados.",
+        "longDesc":  "Batería portátil de 20.000 mAh con panel solar y cuatro cables integrados. Carga rápida para celular y tablet, ideal para viajes, camping y senderismo.",
+        "price":  139900,
+        "images":  [
+                       "power-bank-solar-20000.jpg",
+                       "power-bank-solar-20000-2.jpg",
+                       "power-bank-solar-20000-3.jpg",
+                       "power-bank-solar-20000-4.jpg",
+                       "power-bank-solar-20000-5.jpg",
+                       "power-bank-solar-20000-6.jpg"
+                   ],
+        "imageAlt":  "Power Bank Solar 20.000 mAh",
+        "specs":  [
+                      [
+                          "Capacidad",
+                          "20.000 mAh"
+                      ],
+                      [
+                          "Carga",
+                          "Solar y por cable"
+                      ],
+                      [
+                          "Cables",
+                          "4 integrados"
+                      ],
+                      [
+                          "Uso",
+                          "Viajes y exteriores"
+                      ]
+                  ]
+    },
+    {
+        "id":  "power-bank-ag3",
+        "name":  "Power Bank AG3 20.000 mAh",
+        "category":  "carga",
+        "categoryLabel":  "Carga · Portátil",
+        "shortDesc":  "Batería portátil de 20.000 mAh para varias cargas del celular.",
+        "longDesc":  "Batería portátil AG-3 de 20.000 mAh para cargar tu celular varias veces lejos del enchufe.",
+        "price":  84900,
+        "images":  [
+                       "power-bank-ag3.jpg",
+                       "power-bank-ag3-2.jpg",
+                       "power-bank-ag3-3.jpg"
+                   ],
+        "imageAlt":  "Power Bank AG3 20.000 mAh",
+        "specs":  [
+                      [
+                          "Capacidad",
+                          "20.000 mAh"
+                      ],
+                      [
+                          "Modelo",
+                          "AG-3"
+                      ]
+                  ]
+    },
+    {
+        "id":  "soporte-carro-s03",
+        "name":  "Soporte de Celular para Carro S03",
+        "category":  "accesorios",
+        "categoryLabel":  "Accesorios · Carro",
+        "shortDesc":  "Ventosa de gel lavable, brazo extensible y liberación con una mano.",
+        "longDesc":  "Soporte para celular con ventosa de gel lavable y brazo extensible que gira para encontrar la altura ideal. Su botón de bloqueo permite poner y sacar el celular con una mano.",
+        "price":  49900,
+        "images":  [
+                       "soporte-carro-s03.jpg",
+                       "soporte-carro-s03-2.jpg",
+                       "soporte-carro-s03-3.jpg",
+                       "soporte-carro-s03-4.jpg",
+                       "soporte-carro-s03-5.jpg"
+                   ],
+        "imageAlt":  "Soporte de Celular para Carro S03",
+        "specs":  [
+                      [
+                          "Fijación",
+                          "Ventosa de gel lavable"
+                      ],
+                      [
+                          "Brazo",
+                          "Extensible y giratorio"
+                      ],
+                      [
+                          "Compatibilidad",
+                          "Celulares de 4 a 6,5\""
+                      ],
+                      [
+                          "Liberación",
+                          "Con una mano"
+                      ]
+                  ]
+    },
+    {
+        "id":  "soporte-moto-doble",
+        "name":  "Soporte de Celular para Moto Doble Brazo",
+        "category":  "accesorios",
+        "categoryLabel":  "Accesorios · Moto",
+        "shortDesc":  "Soporte de brazo doble para usar el GPS del celular en la moto.",
+        "longDesc":  "Soporte para celular de brazo doble que se instala en la moto para usar mapas y GPS de forma segura.",
+        "price":  44900,
+        "images":  [
+                       "soporte-moto-doble.jpg"
+                   ],
+        "imageAlt":  "Soporte de Celular para Moto Doble Brazo",
+        "specs":  [
+                      [
+                          "Uso",
+                          "Moto y bicicleta"
+                      ],
+                      [
+                          "Sujeción",
+                          "Brazo doble"
+                      ],
+                      [
+                          "Función",
+                          "GPS y mapas a la vista"
+                      ]
+                  ]
+    },
+    {
+        "id":  "microfono-inalambrico",
+        "name":  "Micrófono Inalámbrico para Celular",
+        "category":  "audio",
+        "categoryLabel":  "Audio · Creadores",
+        "shortDesc":  "Micrófono de solapa tipo C con reducción de ruido y 20 m de alcance.",
+        "longDesc":  "Micrófono inalámbrico de solapa para celular con conector tipo C. Plug and play, sin aplicación, con reducción inteligente de ruido. Ideal para videos, transmisiones en vivo y clases.",
+        "price":  49900,
+        "images":  [
+                       "microfono-inalambrico.jpg",
+                       "microfono-inalambrico-2.jpg",
+                       "microfono-inalambrico-3.jpg",
+                       "microfono-inalambrico-4.jpg"
+                   ],
+        "imageAlt":  "Micrófono Inalámbrico para Celular",
+        "specs":  [
+                      [
+                          "Conector",
+                          "Tipo C"
+                      ],
+                      [
+                          "Alcance",
+                          "Hasta 20 m"
+                      ],
+                      [
+                          "Latencia",
+                          "9 ms"
+                      ],
+                      [
+                          "Autonomía",
+                          "Hasta 6 horas"
+                      ],
+                      [
+                          "Patrón",
+                          "Omnidireccional"
+                      ]
+                  ]
+    },
+    {
+        "id":  "combo-teclado-mouse-t25",
+        "name":  "Combo Teclado y Mouse Gamer RGB T25",
+        "category":  "accesorios",
+        "categoryLabel":  "Accesorios · Gaming",
+        "shortDesc":  "Teclado y mouse alámbricos con iluminación RGB arcoíris.",
+        "longDesc":  "Combo de teclado y mouse gamer alámbricos por USB con iluminación RGB. La base traslúcida del teclado hace brillar los colores de forma uniforme. Teclado con teclado numérico, sin la letra Ñ.",
+        "price":  109900,
+        "images":  [
+                       "combo-teclado-mouse-t25.jpg",
+                       "combo-teclado-mouse-t25-2.jpg",
+                       "combo-teclado-mouse-t25-3.jpg"
+                   ],
+        "imageAlt":  "Combo Teclado y Mouse Gamer RGB T25",
+        "specs":  [
+                      [
+                          "Conexión",
+                          "USB alámbrica"
+                      ],
+                      [
+                          "Iluminación",
+                          "RGB arcoíris"
+                      ],
+                      [
+                          "Teclado",
+                          "Distribución en inglés, sin Ñ, con numérico"
+                      ],
+                      [
+                          "Mouse",
+                          "LED con efecto respiración"
+                      ]
+                  ]
+    },
+    {
+        "id":  "mini-aro-luz",
+        "name":  "Mini Aro de Luz Recargable",
+        "category":  "iluminacion",
+        "categoryLabel":  "Iluminación · Selfies",
+        "shortDesc":  "Aro LED de clip para celular o tablet, con 3 niveles de brillo.",
+        "longDesc":  "Aro de luz LED de 8 cm con clip para celular y tablet, ideal para selfies y videollamadas. Tres niveles de brillo, banda antideslizante y batería recargable.",
+        "price":  49900,
+        "images":  [
+                       "mini-aro-luz.jpg",
+                       "mini-aro-luz-2.jpg",
+                       "mini-aro-luz-3.jpg"
+                   ],
+        "imageAlt":  "Mini Aro de Luz Recargable",
+        "specs":  [
+                      [
+                          "Diámetro",
+                          "8 cm"
+                      ],
+                      [
+                          "Brillo",
+                          "3 niveles"
+                      ],
+                      [
+                          "Sujeción",
+                          "Clip con banda antideslizante"
+                      ],
+                      [
+                          "Batería",
+                          "Recargable"
+                      ]
+                  ]
+    },
+    {
+        "id":  "aro-luz-33-tripode",
+        "name":  "Aro de Luz RGB 33 cm con Trípode",
+        "category":  "iluminacion",
+        "categoryLabel":  "Iluminación · Creadores",
+        "shortDesc":  "Aro RGB de 33 cm con trípode de 2 m y soporte para celular.",
+        "longDesc":  "Aro de luz de 33 cm con múltiples efectos de color y trípode de 2 metros. Intensidad ajustable y soporte para celular. Para maquillaje, transmisiones en vivo y fotografía. No incluye control remoto.",
+        "price":  79900,
+        "images":  [
+                       "aro-luz-33-tripode.webp",
+                       "aro-luz-33-tripode-2.jpg",
+                       "aro-luz-33-tripode-3.jpg",
+                       "aro-luz-33-tripode-4.jpg",
+                       "aro-luz-33-tripode-5.jpg"
+                   ],
+        "imageAlt":  "Aro de Luz RGB 33 cm con Trípode",
+        "specs":  [
+                      [
+                          "Diámetro",
+                          "33 cm"
+                      ],
+                      [
+                          "Trípode",
+                          "2 m"
+                      ],
+                      [
+                          "Luz",
+                          "RGB y tonos blancos, intensidad ajustable"
+                      ],
+                      [
+                          "Incluye",
+                          "Soporte para celular (sin control)"
+                      ]
+                  ]
+    },
+    {
+        "id":  "tira-led-bluetooth-5m",
+        "name":  "Tira LED RGB Bluetooth 5 m",
+        "category":  "iluminacion",
+        "categoryLabel":  "Iluminación · Ambiente",
+        "shortDesc":  "16 millones de colores controlados desde el celular, por USB.",
+        "longDesc":  "Tira LED RGB de 5 metros que controlas desde tu celular por Bluetooth. LED 5050 brillantes y de bajo consumo, para la habitación, el escritorio gamer o detrás del televisor.",
+        "price":  74900,
+        "images":  [
+                       "tira-led-bluetooth-5m.jpg",
+                       "tira-led-bluetooth-5m-2.jpg",
+                       "tira-led-bluetooth-5m-3.jpg",
+                       "tira-led-bluetooth-5m-4.jpg",
+                       "tira-led-bluetooth-5m-5.jpg"
+                   ],
+        "imageAlt":  "Tira LED RGB Bluetooth 5 m",
+        "specs":  [
+                      [
+                          "Largo",
+                          "5 m (30 LED por metro)"
+                      ],
+                      [
+                          "Control",
+                          "App por Bluetooth"
+                      ],
+                      [
+                          "Colores",
+                          "16 millones"
+                      ],
+                      [
+                          "Alimentación",
+                          "USB 5 V (adaptador no incluido)"
+                      ],
+                      [
+                          "Consumo",
+                          "3 W por metro"
+                      ]
+                  ]
+    },
+    {
+        "id":  "tira-led-10m",
+        "name":  "Tira LED RGB 10 m con Control",
+        "category":  "iluminacion",
+        "categoryLabel":  "Iluminación · Ambiente",
+        "shortDesc":  "10 metros de luz RGB con control para cambiar colores.",
+        "longDesc":  "Tira de luces RGB de 10 metros con control para seleccionar colores. Incluye fuente de alimentación.",
+        "price":  64900,
+        "images":  [
+                       "tira-led-10m.jpg",
+                       "tira-led-10m-2.jpg",
+                       "tira-led-10m-3.jpg"
+                   ],
+        "imageAlt":  "Tira LED RGB 10 m con Control",
+        "specs":  [
+                      [
+                          "Largo",
+                          "10 m (100 luces)"
+                      ],
+                      [
+                          "Voltaje",
+                          "5 V"
+                      ],
+                      [
+                          "Color",
+                          "RGB"
+                      ],
+                      [
+                          "Incluye",
+                          "Control y fuente de alimentación"
+                      ]
+                  ]
+    },
+    {
+        "id":  "camara-ptz-exterior",
+        "name":  "Cámara WiFi PTZ para Exterior",
+        "category":  "hogar",
+        "categoryLabel":  "Hogar · Seguridad",
+        "shortDesc":  "Gira 355°, sigue a las personas y tiene visión nocturna a color.",
+        "longDesc":  "Cámara IP motorizada para exteriores con doble antena, seguimiento automático de personas y visión nocturna infrarroja o a color. Mírala en tiempo real desde la app y habla con audio bidireccional.",
+        "price":  139900,
+        "images":  [
+                       "camara-ptz-exterior.webp",
+                       "camara-ptz-exterior-2.webp",
+                       "camara-ptz-exterior-3.webp"
+                   ],
+        "imageAlt":  "Cámara WiFi PTZ para Exterior",
+        "specs":  [
+                      [
+                          "Resolución",
+                          "Full HD 1080p (2 MP)"
+                      ],
+                      [
+                          "Movimiento",
+                          "355° horizontal, 90° vertical"
+                      ],
+                      [
+                          "Conectividad",
+                          "WiFi 2,4 GHz, doble antena"
+                      ],
+                      [
+                          "Visión nocturna",
+                          "Infrarroja y a color"
+                      ],
+                      [
+                          "Audio",
+                          "Bidireccional"
+                      ]
+                  ]
+    },
+    {
+        "id":  "camara-360-bombillo",
+        "name":  "Cámara WiFi 360° tipo Bombillo",
+        "category":  "hogar",
+        "categoryLabel":  "Hogar · Seguridad",
+        "shortDesc":  "Se instala en un portabombillo, gira 355° y graba en microSD.",
+        "longDesc":  "Cámara de seguridad que se instala en un portabombillo normal. Gira 355°, sigue el movimiento de las personas, tiene visión nocturna a color y audio bidireccional. Se maneja desde la app YCC365 Plus.",
+        "price":  99900,
+        "images":  [
+                       "camara-360-bombillo.jpg",
+                       "camara-360-bombillo-2.jpg",
+                       "camara-360-bombillo-3.jpg",
+                       "camara-360-bombillo-4.jpg"
+                   ],
+        "imageAlt":  "Cámara WiFi 360° tipo Bombillo",
+        "specs":  [
+                      [
+                          "Resolución",
+                          "1080p (2 MP)"
+                      ],
+                      [
+                          "Instalación",
+                          "Portabombillo E27"
+                      ],
+                      [
+                          "Movimiento",
+                          "355° / 90°"
+                      ],
+                      [
+                          "Almacenamiento",
+                          "microSD hasta 128 GB"
+                      ],
+                      [
+                          "App",
+                          "YCC365 Plus"
+                      ]
+                  ]
+    },
+    {
+        "id":  "mini-proyector-hd",
+        "name":  "Mini Proyector HD WiFi 6 Android",
+        "category":  "hogar",
+        "categoryLabel":  "Hogar · Entretenimiento",
+        "shortDesc":  "Resolución nativa 720p, WiFi, Bluetooth, HDMI y control remoto.",
+        "longDesc":  "Mini proyector HY320 con sistema Android, WiFi y Bluetooth. Resolución nativa de 1280 × 720 y entradas HDMI y USB para conectar consolas, computadores o memorias. Incluye control remoto.",
+        "price":  249900,
+        "images":  [
+                       "mini-proyector-hd.jpg",
+                       "mini-proyector-hd-2.jpg",
+                       "mini-proyector-hd-3.jpg"
+                   ],
+        "imageAlt":  "Mini Proyector HD WiFi 6 Android",
+        "specs":  [
+                      [
+                          "Resolución nativa",
+                          "1280 × 720"
+                      ],
+                      [
+                          "Sistema",
+                          "Android"
+                      ],
+                      [
+                          "Conectividad",
+                          "WiFi y Bluetooth"
+                      ],
+                      [
+                          "Entradas",
+                          "HDMI, USB, audio"
+                      ],
+                      [
+                          "Incluye",
+                          "Control remoto"
+                      ]
+                  ]
+    },
+    {
+        "id":  "proyector-galaxias-12",
+        "name":  "Proyector de Galaxias 12 en 1",
+        "category":  "iluminacion",
+        "categoryLabel":  "Iluminación · Decoración",
+        "shortDesc":  "12 diseños intercambiables, luz nocturna y enfoque ajustable.",
+        "longDesc":  "Proyector de luz con 12 diseños intercambiables para la pared o el techo. También funciona como luz nocturna. Cuello flexible, enfoque ajustable y alimentación por USB.",
+        "price":  99900,
+        "images":  [
+                       "proyector-galaxias-12.jpg",
+                       "proyector-galaxias-12-2.jpg",
+                       "proyector-galaxias-12-3.jpg",
+                       "proyector-galaxias-12-4.jpg",
+                       "proyector-galaxias-12-5.webp"
+                   ],
+        "imageAlt":  "Proyector de Galaxias 12 en 1",
+        "specs":  [
+                      [
+                          "Diseños",
+                          "12 intercambiables"
+                      ],
+                      [
+                          "Modos",
+                          "Proyector y luz nocturna"
+                      ],
+                      [
+                          "Ajuste",
+                          "Cuello flexible y enfoque"
+                      ],
+                      [
+                          "Alimentación",
+                          "USB"
+                      ]
+                  ]
+    },
+    {
+        "id":  "proyector-astronauta",
+        "name":  "Lámpara Proyector Astronauta",
+        "category":  "iluminacion",
+        "categoryLabel":  "Iluminación · Decoración",
+        "shortDesc":  "Proyecta estrellas y nebulosas de colores, con control remoto.",
+        "longDesc":  "Lámpara con forma de astronauta que proyecta estrellas y nebulosas en el techo. Colores, intensidad y velocidad ajustables. Incluye cable USB y control remoto (pilas AAA no incluidas).",
+        "price":  59900,
+        "images":  [
+                       "proyector-astronauta.jpg",
+                       "proyector-astronauta-2.jpg",
+                       "proyector-astronauta-3.jpg"
+                   ],
+        "imageAlt":  "Lámpara Proyector Astronauta",
+        "specs":  [
+                      [
+                          "Efecto",
+                          "Estrellas y nebulosa"
+                      ],
+                      [
+                          "Control",
+                          "Remoto (2 pilas AAA no incluidas)"
+                      ],
+                      [
+                          "Alimentación",
+                          "Cable USB"
+                      ],
+                      [
+                          "Ajustes",
+                          "Color, intensidad y velocidad"
+                      ]
+                  ]
+    }
 ]

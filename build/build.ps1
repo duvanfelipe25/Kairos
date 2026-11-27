@@ -96,7 +96,7 @@ $pageHome = (Get-Head 'Kairos Tecnology | Accesorios de tecnología en Colombia'
   <main id="contenido">
     <section class="intro">
       <h1>Tu tecnología, <span>con confianza</span></h1>
-      <p>Audífonos, parlantes y accesorios para tus dispositivos. Envíos a todo Colombia.</p>
+      <p>Audífonos, parlantes, smartwatch, cargadores y más accesorios para tus dispositivos. Envíos a todo Colombia.</p>
       <a class="cta" href="productos.html">Ver productos</a>
     </section>
     <section class="perks">
@@ -125,15 +125,23 @@ $cards = foreach ($p in $products) {
       </article>
 "@
 }
-$catalog = (Get-Head 'Productos de audio y accesorios | Kairos Tecnology' 'Catálogo de Kairos Tecnology: diademas, parlantes portátiles y mousepad gaming con envío a todo Colombia.' '' 'productos.html') +
+# Filtros: uno por cada categoría que tenga productos, en este orden
+$catNames = [ordered]@{ audio = 'Audio'; relojes = 'Relojes'; carga = 'Carga'; accesorios = 'Accesorios'; iluminacion = 'Iluminación'; hogar = 'Hogar' }
+$usedCats = $products | ForEach-Object { $_.category } | Select-Object -Unique
+$filterButtons = foreach ($k in $catNames.Keys) {
+  if ($usedCats -contains $k) { "      <button class=""pill"" data-filter=""$k"" type=""button"">$($catNames[$k])</button>" }
+}
+foreach ($k in $usedCats) {
+  if (-not $catNames.Contains($k)) { $filterButtons += "      <button class=""pill"" data-filter=""$k"" type=""button"">$(E $k)</button>" }
+}
+$catalog = (Get-Head 'Productos de tecnología | Kairos Tecnology' 'Catálogo de Kairos Tecnology: audífonos, parlantes, smartwatch, cargadores, iluminación LED y cámaras con envío a todo Colombia.' '' 'productos.html') +
   (Get-Header '' 'productos') + @"
   <main id="contenido" class="view">
     <h1 class="view-title">Nuestros productos</h1>
-    <p class="lead">Audio y accesorios para tu celular, tu computador y tu día a día.</p>
+    <p class="lead">Audio, relojes, carga, iluminación y accesorios para tu celular, tu computador y tu hogar.</p>
     <div class="filters" id="filters" role="group" aria-label="Filtrar por categoría">
       <button class="pill active" data-filter="todos" type="button">Todos</button>
-      <button class="pill" data-filter="audio" type="button">Audio</button>
-      <button class="pill" data-filter="accesorios" type="button">Accesorios</button>
+$($filterButtons -join "`n")
     </div>
     <span class="count" id="count">Mostrando $($products.Count) de $($products.Count) productos</span>
     <div class="grid" id="grid">
